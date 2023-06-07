@@ -38,4 +38,4 @@ jobs:
         run: |
            print("hello world of python")
            print("hello world of python a second line")
-        shell: Python
+        shell: python
